@@ -1,4 +1,4 @@
-# Backend Developer | JooHyeong Kang
+# Backend Developer, JooHyeong Kang
 
 저는 흐름의 성격에 따라 다른 구조를 선택하는 백엔드 개발자입니다.
 
