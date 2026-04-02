@@ -24,4 +24,4 @@ Hipster(사용자 카탈로그 기여 보상부터 차트 공개까지 다루는
 
 ## 📬 Contact
 
-- **Email** joohyeongzz81@gmail.com
+- **Email** : joohyeongzz81@gmail.com
