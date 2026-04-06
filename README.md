@@ -1,7 +1,6 @@
 ## Juhyeong Kang
 
-Backend engineer who designs and improves systems with a focus on data flow, consistency, and operational clarity.  
-Experienced in building APIs with Java and Spring, as well as handling batch processing, asynchronous workflows, data modeling, and performance optimization.
+<p><b>Backend engineer</b> focused on building reliable and maintainable systems.</p>
 
 <br />
 
