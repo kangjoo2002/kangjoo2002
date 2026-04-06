@@ -1,27 +1,26 @@
-# Backend Developer, JooHyeong Kang
+## Juhyeong Kang
 
-저는 흐름의 성격에 따라 다른 구조를 선택하는 백엔드 개발자입니다.
+Backend engineer who designs and improves systems with a focus on data flow, consistency, and operational clarity.  
+Experienced in building APIs with Java and Spring, as well as handling batch processing, asynchronous workflows, data modeling, and performance optimization.
 
-Hipster(사용자 카탈로그 기여 보상부터 차트 공개까지 다루는 음악 플랫폼)를 설계하면서 차트 공개는 버전 단위로 원자적으로 전환했고, 평점 집계·적립·정산은 즉시성과 유실 허용 여부가 도메인마다 다르다고 판단해 각각 다른 정합성 모델을 선택했습니다. 구현 전에 이 흐름이 어떤 실패를 얼마나 허용할 수 있는지를 먼저 따지는 편입니다.
+<br />
 
-<br>
+## Work Experience
+| Organization | Position | Period |
+|:------------|:---------|:---------|
+| [EQBR Holdings](https://eqbr.com/) | Backend Developer | 2025.03 ~ 2025.08 |
 
-## 🛠 Tech Stack
+<br />
 
-**Backend**
-`Java` `Spring Boot` `Spring Batch` `JPA`
+## Projects
+| Project | Type | Period |
+|:---------|:------|:---------|
+| [hipster](https://github.com/kangju2000/gachon-tools) | Personal Project | 2026.02 ~ Present |
+| [sns](https://github.com/kangju2000/kangju.dev) | Personal Project | 2024.12 ~ Present |
 
-**Infra / DB**
-`MySQL` `Redis` `Elasticsearch` `RabbitMQ` `Docker`
+<br />
 
-<br>
-
-## 🏅 Certificate
-
-- 정보처리기사
-
-<br>
-
-## 📬 Contact
-
-- **Email** : joohyeongzz81@gmail.com
+## Certificates
+| Certificate | Issuer | Date |
+|:------------|:-------|:-----|
+| 정보처리기사 | 한국산업인력공단 | 2024.09 |
