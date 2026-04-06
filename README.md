@@ -5,7 +5,14 @@
 <br />
 
 ## Tech Stack
-Java, Spring Boot, JPA, MySQL, Redis, RabbitMQ, Elasticsearch, Docker, AWS
+| Category | Stack |
+|:---------|:------|
+| Language | Java · JavaScript · TypeScript |
+| Backend | Spring Boot · JPA · NestJS · Express |
+| Database | MySQL · Redis |
+| Messaging | RabbitMQ |
+| Search | Elasticsearch |
+| Infrastructure | Docker · AWS |
 
 <br />
 
