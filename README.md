@@ -4,6 +4,11 @@
 
 <br />
 
+## Tech Stack
+Java, Spring Boot, JPA, MySQL, Redis, RabbitMQ, Elasticsearch, Docker, AWS
+
+<br />
+
 ## Work Experience
 | Organization | Position | Period |
 |:------------|:---------|:---------|
