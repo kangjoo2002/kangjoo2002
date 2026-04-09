@@ -1,6 +1,6 @@
 ## Juhyeong Kang
 
-<p><b>Backend engineer</b> focused on building reliable and maintainable systems.</p>
+<p><b>Backend developer</b> focused on building reliable and maintainable systems.</p>
 
 <br />
 
