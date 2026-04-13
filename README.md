@@ -14,7 +14,7 @@
 ## Work Experience
 | Organization | Position | Period |
 |:------------|:---------|:---------|
-| [EQBR Holdings](https://eqbr.com/) | Backend Developer | 2025.03 ~ 2025.08 |
+| [EQBR Holdings](https://eqbr.com/) | Backend Developer | 2025.02 ~ 2025.08 |
 
 <br />
 
